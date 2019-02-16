@@ -1,4 +1,6 @@
-#! /bin/bash
+#! /bin/bash --login
+
+shopt -s  expand_aliases
 
 conda create -n py2.7 python=2.7 
 conda create -n py3.6 python=3.6
