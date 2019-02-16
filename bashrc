@@ -15,7 +15,7 @@ export PATH="/home/zhushuguang/Software/anaconda3/bin:$PATH"
 
 # alias
 alias py3.6="source activate py3.6"
-alias py2="source activate py2.7"
+alias py2.7="source activate py2.7"
 alias dpy="source deactivate"
 
 alias tb7006="tensorboard --logdir=./ --port=7006"
