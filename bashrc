@@ -24,3 +24,5 @@ alias tb7008="tensorboard --logdir=./ --port=7008"
 
 alias nogpu='export CUDA_VISIBLE_DEVICES=""'
 alias ns="nvidia-smi"
+
+alias imgcat="~/Script/imgcat"
