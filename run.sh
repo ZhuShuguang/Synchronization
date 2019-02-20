@@ -2,6 +2,7 @@
 
 cp ./bashrc ~/.bashrc
 cp ./bash_profile ~/.bash_profile
+cp ./vimrc ~/.vimrc
 cp ./imgcat ~/Script/imgcat
 
 source ~/.bashrc
