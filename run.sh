@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bash --login
 
 cp ./bashrc ~/.bashrc
 cp ./bash_profile ~/.bash_profile
