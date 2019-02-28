@@ -1,7 +1,7 @@
 #! /bin/bash 
 
-#conda create -n py2.7 python=2.7 
-#conda create -n py3.6 python=3.6
+conda create -n py2.7 python=2.7 
+conda create -n py3.6 python=3.6
 
 function install_func()
 {
